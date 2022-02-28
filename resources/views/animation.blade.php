@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Deploy Laravel</title>
     <link rel="stylesheet" href="{{ url(mix('assets/css/app.css')) }}">
 </head>
 <body>
+    <h2>{{url("assets")}}</h2>
     <svg width="68" height="66" viewBox="0 0 68 66" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g id="art">
         <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="68" height="66">
